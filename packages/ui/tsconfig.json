@@ -1,8 +1,8 @@
 {
-	"extends": "@hoony-design-system/tsconfig/base.json",
-	"compilerOptions": {
-		"baseUrl": "."
-	},
-	"include": ["./src", "./typings/*"],
-	"exclude": ["node_modules", "dist"]
+    "extends": "@hoony-design-system/tsconfig/base.json",
+    "compilerOptions": {
+        "baseUrl": "."
+    },
+    "include": ["./src", "./typings/*"],
+    "exclude": ["node_modules", "dist"]
 }
