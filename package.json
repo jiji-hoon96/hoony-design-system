@@ -18,6 +18,7 @@
         "@hoony-design-system/eslint-config": "workspace:^",
         "@hoony-design-system/prettier-config": "workspace:^",
         "builtin-modules": "^4.0.0",
+        "eslint": "^9.0.0",
         "prettier": "^3.5.3",
         "turbo": "^2.5.4",
         "typescript": "^5.8.3"
